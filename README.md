@@ -1,5 +1,5 @@
 The Domain Driven Design Project!
-Creating a new branch is quick AND simple.
+Creating a new branch is Git is a free software.
 add merge
 idakhd
 sadjladjasldjslk
